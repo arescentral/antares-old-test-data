@@ -1,0 +1,52 @@
+quiet	3	0
+amp	3	0	255
+loop	3	0	/music/4001.mp3
+quiet	3	3658
+amp	3	3658	255
+loop	3	3658	/music/3000.mp3
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	0	3658
+amp	0	3658	64
+play	0	3658	/sounds/535.aiff
+quiet	3	3658
+quiet	0	3659
+amp	0	3659	128
+play	0	3659	/sounds/510.aiff
+quiet	0	3661
+amp	0	3661	255
+play	0	3661	/sounds/510.aiff
+quiet	3	3841
+amp	3	3841	255
+loop	3	3841	/music/4001.mp3
+quiet	1	3960
+amp	1	3960	192
+play	1	3960	/sounds/507.aiff

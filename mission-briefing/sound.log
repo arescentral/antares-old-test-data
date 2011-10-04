@@ -1,0 +1,103 @@
+quiet	3	0
+amp	3	0	255
+loop	3	0	/music/4001.mp3
+quiet	0	960
+amp	0	960	192
+play	0	960	/sounds/507.aiff
+quiet	0	1080
+amp	0	1080	192
+play	0	1080	/sounds/507.aiff
+quiet	3	1200
+amp	3	1200	255
+loop	3	1200	/music/3000.mp3
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	1	1200
+amp	1	1200	64
+play	1	1200	/sounds/535.aiff
+quiet	0	1260
+amp	0	1260	192
+play	0	1260	/sounds/507.aiff
+quiet	0	1380
+amp	0	1380	192
+play	0	1380	/sounds/507.aiff
+quiet	0	1500
+amp	0	1500	192
+play	0	1500	/sounds/507.aiff
+quiet	0	1620
+amp	0	1620	192
+play	0	1620	/sounds/507.aiff
+quiet	0	1740
+amp	0	1740	192
+play	0	1740	/sounds/507.aiff
+quiet	0	1860
+amp	0	1860	192
+play	0	1860	/sounds/507.aiff
+quiet	0	1980
+amp	0	1980	192
+play	0	1980	/sounds/507.aiff
+quiet	0	2100
+amp	0	2100	192
+play	0	2100	/sounds/507.aiff
+quiet	3	2460
+quiet	3	2460
+amp	3	2460	255
+loop	3	2460	/music/4001.mp3
+quiet	0	2520
+amp	0	2520	192
+play	0	2520	/sounds/507.aiff
